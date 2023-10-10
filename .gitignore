@@ -1,0 +1,11 @@
+/backend/vendor/
+/backend/.idea/
+/backend/.vscode/
+/backend/static/
+/backend/index.html
+/.idea/
+/backend/asset-manifest.json
+/backend/logo192.png
+/backend/logo512.png
+/backend/manifest.json
+/backend/robots.txt

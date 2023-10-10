@@ -1,0 +1,19 @@
+{
+  "name": "orbyta/soris-demo",
+  "description": "demo",
+  "type": "project",
+  "require": {
+    "illuminate/database": "^v10.0.0",
+    "ext-sqlite3": "*",
+    "bramus/router": "~1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Controllers\\": "app/controllers/",
+      "Models\\": "app/models/"
+    }
+  },
+  "require-dev": {
+    "barryvdh/laravel-ide-helper": "^2.13"
+  }
+}
